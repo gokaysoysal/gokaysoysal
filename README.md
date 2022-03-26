@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokaysoysal
 - 👀 I’m interested in Back-end Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Js, Python
 - 💞️ I’m looking to collaborate on innovative projects 
 - 📫 You can reach me via email: agokaysoysal@gmail.com
 
