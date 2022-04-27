@@ -5,3 +5,4 @@ gokaysoysal/gokaysoysal is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+https://www.linkedin.com/sharing/share-offsite/?url={https://www.linkedin.com/in/g%C3%B6kay-soysal/}
