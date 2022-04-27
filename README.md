@@ -5,11 +5,4 @@ gokaysoysal/gokaysoysal is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div class="social-icons">
-            
-            <div class="social-icons-image">
-                <a href="https://www.linkedin.com/in/g%C3%B6kay-soysal/">
-                    <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
-                </a>
-            </div>
-        </div>
+
